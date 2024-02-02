@@ -9,7 +9,6 @@ This repository contains a TypeScript-based API service designed to manage and e
 - **Task Management**: Easily create, update, and delete background tasks.
 - **Task Execution Queue**: Tasks are queued and executed asynchronously to avoid blocking the main application thread.
 - **Persistent Storage**: Utilizes PostgreSQL for storing task-related data, ensuring durability.
-- **RESTful API**: Provides a clean and intuitive RESTful API for interaction.
 
 ## Tech Stack
 
