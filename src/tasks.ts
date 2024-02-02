@@ -1,4 +1,3 @@
-// tasks.ts
 import db from './database';
 
 interface Task {
