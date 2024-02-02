@@ -38,7 +38,10 @@ npm install
 npx ts-node .\src\index.ts
 ```
 
-![img1](https://drive.google.com/uc?export=view&id=14g9ogJeIyE8RtaGbIXqasfJPdKRgqa8a)
+![image 1](https://drive.google.com/uc?export=view&id=14g9ogJeIyE8RtaGbIXqasfJPdKRgqa8a)
+![Image 2](https://drive.google.com/uc?export=view&id=10QX9s0Bz-oxQPFootQb1e1u5KSsC0GkS)
+![Image 3](https://drive.google.com/uc?export=view&id=14SYvqGqXptkXqMtCyoFRvVSAk_49658-)
+![Image 4](https://drive.google.com/uc?export=view&id=1pbId0Q3-Rpga9aQSK70ST58_-7q3D5UM)
 
 ## Use Postman to send POST request
 
