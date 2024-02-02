@@ -1,4 +1,3 @@
-// database.ts
 import pgPromise from 'pg-promise';
 
 const pgp = pgPromise({});
